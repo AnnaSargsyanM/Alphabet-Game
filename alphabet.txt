@@ -1,0 +1,6 @@
+You entered the letter c
+The list of words is:
+	Fruit   	Cranberry
+	Flower  	Camellia
+	Country 	Cambodia
+	Animal  	Caribou
