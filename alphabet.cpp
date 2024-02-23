@@ -1,16 +1,3 @@
-//****************************************************************************************************
-//     File:               alphabet.cpp
-// 
-//     Student:            Anna Sargsyan
-// 
-//     Assignment:         Program #6
-// 
-//     Course Name:        Programming I
-// 
-//     Course Number:      COSC 1550-01
-// 
-//     Due:                March 6, 2023
-//
 //     This program asks user to input alphabetical character between A and F 
 //     incusively and then outputs fruit, flower, country and animal 
 //     starting with the same letter.
